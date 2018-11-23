@@ -14,4 +14,4 @@ console.log("perf(pencil): remove graphiteWidth option")
 
 console.log("chore: Changes to the build process or auxiliary tools and libraries such as documentation generation")
 
-console.log("perf: Changes to the build process or auxiliary tools and libraries such as documentation generation")
+console.log("perf: C2hanges to the build process or auxiliary tools and libraries such as documentation generation")
