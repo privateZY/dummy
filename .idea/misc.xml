@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="Jenkins.Application.Settings">
+    <option name="serverUrl" value="http://jksprd.suiyi.com.cn" />
+  </component>
+  <component name="Jenkins.Settings">
+    <option name="username" value="0002855" />
+    <option name="crumbData" value="b57ff3122c08965ea09cb626d3fd5599" />
+    <option name="jenkinsVersion" value="VERSION_2" />
+  </component>
+</project>
