@@ -15,3 +15,8 @@ console.log("perf(pencil): remove graphiteWidth option")
 console.log("chore: Changes to the build process or auxiliary tools and libraries such as documentation generation")
 
 console.log("perf: C2hanges to the build process or auxiliary tools and libraries such as documentation generation")
+
+
+function fixRealse() {
+  console.log("fix: 运行改指令可以发动小修改")
+}
