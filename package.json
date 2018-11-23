@@ -1,7 +1,8 @@
 {
-  "name": "dummy",
+  "name": "dummy-ci-semantic",
   "version": "1.0.0",
   "main": "index.js",
+  "private": false,
   "repository": "https://github.com/JennerChen/dummy.git",
   "author": "zhangqing <zhangqing332@live.com>",
   "license": "MIT",
