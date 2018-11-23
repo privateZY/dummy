@@ -18,5 +18,7 @@ console.log("perf: C2hanges to the build process or auxiliary tools and librarie
 
 
 function fixRealse() {
-  console.log("fix: 运行改指令可以发动小修改")
+  console.log("fix: 运行`fix`指令可以发动小修改")
+
+  console.log("perf: 运行`perf`指令可以发动小修改")
 }
