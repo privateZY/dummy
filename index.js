@@ -11,3 +11,5 @@ console.log("我要一个小发布, bugfix")
 console.log("docs: Documentation only changes")
 
 console.log("perf(pencil): remove graphiteWidth option")
+
+console.log("chore: Changes to the build process or auxiliary tools and libraries such as documentation generation")
