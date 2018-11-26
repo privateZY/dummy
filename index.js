@@ -35,3 +35,5 @@ function breadChangeRelease() {
 }
 
 console.log("这是 demo 分支")
+
+console.log("这个分支不能运行 release 命令")
