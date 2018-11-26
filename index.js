@@ -29,6 +29,7 @@ function featureRelaase() {
 }
 
 function breadChangeRelease() {
+  console.log("feat(pencil): 这回导致BREAKING CHANGE 1.2.0 -> 2.0.0")
   console.log("BREAKING CHANGE: The graphiteWidth option has been removed.\n" +
     "The default graphite width of 10mm is always used for performance reasons. 1.2.0 -> 2.0.0")
 }
